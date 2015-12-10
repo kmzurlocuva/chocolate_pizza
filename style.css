@@ -80,3 +80,30 @@ header p img span {
 .blogImage img {
   width: 100%;
 }
+
+.blogText {
+  text-align: left;
+  font-family: "Times New Roman", serif;
+  text-indent: 2em;
+  margin-top: 1em;
+}
+
+.blogText p {
+  margin-bottom: .5em;
+  line-height: 1.5em;
+}
+
+.recipe {
+background-image: url("img/list-bg.png");
+background-repeat: no-repeat;
+font-size: 1em;
+font-family: "Comic Sans MS"; cursive;
+padding: 2em;
+
+}
+
+.left {
+  list-style-type: none;
+  padding-left: 2em;
+  float:left;
+}
